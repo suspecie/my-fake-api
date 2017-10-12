@@ -1,8 +1,17 @@
 {
   "accounts": [
-    { "id": 1, "title": "Conta Principal Caixa 0888 - 0989819-9" },
-    { "id": 2, "title": "Conta Poupança Itau 0558 - 0878788-9" },
-    { "id": 3, "title": "Conta Salário Bradesco 0544 - 044444-9" }
+    {
+      "id": 1,
+      "title": "Conta Principal Caixa 0888 - 0989819-9"
+    },
+    {
+      "id": 2,
+      "title": "Conta Poupança Itau 0558 - 0878788-9"
+    },
+    {
+      "id": 3,
+      "title": "Conta Salário Bradesco 0544 - 044444-9"
+    }
   ],
   "profile": {
     "name": "suspecie"
